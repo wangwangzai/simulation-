@@ -9,10 +9,12 @@
 如果控制不了疫情，对比感染人数超过80%所需的时间。
 如果成功控制疫情，对比剩余健康者的人数
 
-1  人员倾向于流动， 发病者不隔离 ， 不带口罩
+1  人员倾向于流动， 发病者不隔离 ， 不带口罩  
+
 ![image](https://user-images.githubusercontent.com/49340916/109908054-8e7be400-7cde-11eb-91a7-f29fefd13e7d.png)  
 
-2，一般人员不流动，发病者不隔离，不带口罩
+2，一般人员不流动，发病者不隔离，不带口罩  
+
 ![image](https://user-images.githubusercontent.com/49340916/109908139-ae130c80-7cde-11eb-93c9-f9bdef4ac299.png)  
 3，人员不倾向于流动，发病者隔离，不带口罩  
 ![image](https://user-images.githubusercontent.com/49340916/109908325-0b0ec280-7cdf-11eb-94e8-9194c6b78a0f.png)  
